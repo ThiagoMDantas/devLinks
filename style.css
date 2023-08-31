@@ -1,4 +1,10 @@
-:root {
+ * {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+  }
+  
+  :root {
     --text-color: white;
     --bg-url: url(./assets/bg-mobile.jpg);
   }
